@@ -1,0 +1,34 @@
+_repo: A-Book-of-Exposition_13910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nugent, Homer Heath
+    alias: Nugent, Homer H. (Homer Heath)
+    birthdate: 1893
+    gutenberg_agent_id: '5284'
+    url: http://www.gutenberg.org/2009/agents/5284
+description: ''
+gutenberg_issued: '2004-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers -- Science'
+- !lcsh 'Exposition (Rhetoric)'
+- !lcsh 'English prose literature'
+tableOfContents: The exposition of a mechanism; The levers of the human body, by Sir
+  A. Keith -- The exposition of a machine; The Mergenthaler linotype, by P. T. Dodge
+  -- The exposition of a process in nature; The pea weevil, by J. H. Fabre, tr. by
+  B. Miall -- The exposition of a manufacturing process; Modern paper making, by J.
+  W. Butler Paper Company -- The exposition of an idea; The gospel of relaxation,
+  by W. James; Science and religion, by C. P. Steinmetz.
+title: A Book of Exposition
+url: http://www.gutenberg.org/ebooks/13910
